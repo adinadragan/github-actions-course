@@ -15,4 +15,4 @@ jobs:
       - name: Print Greeting
         run: echo Hello, world!
       - name: Say Goodbye
-        run: Bye, beye, world!
+        run: echo Bye, bye, world!
